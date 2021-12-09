@@ -28,5 +28,5 @@ To do so you need the link (or local path but in this case you have to add "file
 Tab, once done click on USE (https://imgur.com/ScBWgU4.png), now you are ready to host a unity map, so just click on play, (multi or single) and select as map UnityMap (https://imgur.com/rAl4e55.png).
 The unity map loader will show the link you're attempting to download and will ask you to trust it or not (https://imgur.com/A1bbbeB.png), after trusting the link the download will begin and the 
 loading of the map will start shortly after (the time of the loading strictly depends on 2 factors, your internet speed and the size of the map itself, big maps will
-require more time to laod).
+require more time to laod).<br/><br/>
 <img src="https://imgur.com/1WI9fzH.png">
